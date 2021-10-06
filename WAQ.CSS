@@ -1,0 +1,35 @@
+.bg-color {
+  background-color: #d65683;
+  height: 100vh;
+}
+
+.heading {
+  font-family: Roboto;
+  font-size: 40px;
+  color: white;
+  text-align: center;
+  font-weight: 700;
+}
+
+.bg-whitecolor {
+  background-color: white;
+  border-radius: 15px;
+  padding: 15px;
+}
+
+.wrong-answer {
+  font-family: bree serif;
+  font-size: 14px;
+  color: red;
+}
+
+.correct-answer {
+  font-family: bree serif;
+  font-size: 14px;
+  color: green;
+}
+
+.option-heading {
+  font-family: bree serif;
+  font-size: 20px;
+}
